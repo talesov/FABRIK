@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\IK_workspace\ik_test2\ik_test1\ik_test1\Segment.h(1,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\IK_workspace\ik_test2\ik_test1\ik_test1\main.cpp(114,15): warning C4305:  “初始化”: 从“double”到“float”截断
+C:\IK_workspace\ik_test2\ik_test1\ik_test1\main.cpp(157,11): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\IK_workspace\ik_test2\ik_test1\ik_test1\main.cpp(163,22): warning C4244:  “参数”: 从“float”转换到“int”，可能丢失数据
+C:\IK_workspace\ik_test2\ik_test1\ik_test1\main.cpp(163,16): warning C4244:  “参数”: 从“float”转换到“int”，可能丢失数据
+C:\IK_workspace\ik_test2\ik_test1\ik_test1\main.cpp(309,24): warning C4244:  “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\IK_workspace\ik_test2\ik_test1\ik_test1\main.cpp(457,8): warning C4553:  “==”: 未使用表达式结果；是否打算使用“=”?
+  ik_test1.vcxproj -> C:\IK_workspace\ik_test2\ik_test1\Debug\ik_test1.exe
